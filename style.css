@@ -88,9 +88,9 @@ body {
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     align-content: center;
-    margin:  1rem 0;
+    margin:  .85rem 0;
 }
 .content1{
     padding:0 1rem 0rem 0rem;
